@@ -1,0 +1,36 @@
+# Entornos y archivos generados
+**/.venv/
+**/__pycache__/
+*.py[cod]
+**/.pip-temp/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+*.log
+Thumbs.db
+.DS_Store
+
+# Configuración privada; conservar la plantilla pública
+.env
+.env.*
+!.env.*.example
+**/.azure/
+**/credentials/
+**/*service-account*.json
+**/*service_account*.json
+*.pem
+*.key
+
+# Datos de pedidos y documentos locales
+**/data/
+*.xlsx
+*.xls
+*.csv
+*.docx
+
+# Cachés y metadatos de herramientas
+**/.foundry/
+
+# Carpetas de otras pruebas y configuración antigua
+/basic-responses/
+/my-agent-w4vjgk/vscode/
