@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/my-agent-w4vjgk/src/agent-framework-agent-basic-responses/.venv/Scripts/python.exe"
+}
