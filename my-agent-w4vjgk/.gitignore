@@ -1,0 +1,6 @@
+
+# Datos locales de pedidos
+**/data/
+**/.pip-temp/
+**/.env
+
